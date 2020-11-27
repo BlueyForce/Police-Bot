@@ -1,2 +1,2 @@
 # Police-Bot
-A discord bot written in Python using discord.py wrapper
+a discord bot written in Python, using discord.py wrapper
